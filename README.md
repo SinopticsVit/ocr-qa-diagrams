@@ -12,4 +12,3 @@ Linear flowchart images and efficiency infographics for the Confluence child pag
 | `04-invoice-like.svg` | Invoices & Visual Flow | https://cdn.jsdelivr.net/gh/SinopticsVit/ocr-qa-diagrams@main/04-invoice-like.svg |
 | `05-transport.svg` | Transport & Waybills Flow | https://cdn.jsdelivr.net/gh/SinopticsVit/ocr-qa-diagrams@main/05-transport.svg |
 | `06-contract.svg` | Contracts Flow | https://cdn.jsdelivr.net/gh/SinopticsVit/ocr-qa-diagrams@main/06-contract.svg |
-| `ocr_layer_efficiency.svg` | Layer Efficiency Infographic | https://cdn.jsdelivr.net/gh/SinopticsVit/ocr-qa-diagrams@main/ocr_layer_efficiency.svg |
